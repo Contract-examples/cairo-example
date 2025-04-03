@@ -21,11 +21,13 @@ This ERC20 token implementation includes the following features:
 
 ### Prerequisites
 
-- [Scarb](https://docs.swmansion.com/scarb/download.html) - Cairo package manager
-- [Starkli](https://github.com/xJonathanLEI/starkli) - Starknet CLI tool
-- [Starknet Devnet](https://github.com/0xSpaceShard/starknet-devnet) - Local testing network
+- [Scarb](https://docs.swmansion.com/scarb/download.html)
+- [Starknet CLI](https://docs.starknet.io/documentation/getting_started/installation/)
+- MacOS: ``brew install scarb``
 
-You can install these tools using Starkup:
+### Installation
+
+1. Clone the repository:
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.starkup.sh | sh
 ```
