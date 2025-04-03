@@ -22,10 +22,7 @@ This ERC20 token implementation includes the following features:
 ## Development Environment Setup
 
 ### Prerequisites
-
-- [Scarb](https://docs.swmansion.com/scarb/download.html)
-- [Starknet CLI](https://docs.starknet.io/documentation/getting_started/installation/)
-- MacOS: ``brew install scarb``
+- [Scarb && Starknet](https://docs.starknet.io/quick-start/environment-setup/)
 
 ### Installation
 
