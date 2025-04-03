@@ -1,0 +1,43 @@
+# Scarb生成的文件
+target/
+target-out/
+
+# Sierra和CASM编译文件
+*.sierra
+*.casm
+*.json.sierra
+
+# 测试和调试文件
+*.trace
+debug/
+artifacts/
+
+# 环境相关
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*~
+
+# 下载的工具
+scarb-*
+protostar-*
+starknet-*
+
+# 日志文件
+*.log
+logs/ 
