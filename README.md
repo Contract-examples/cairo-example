@@ -25,7 +25,7 @@ This ERC20 token implementation includes the following features:
 
 - [Scarb](https://docs.swmansion.com/scarb/download.html)
 - [Starknet CLI](https://docs.starknet.io/documentation/getting_started/installation/)
-- ``brew install scarb``
+- MacOS: ``brew install scarb``
 
 ### Installation
 
