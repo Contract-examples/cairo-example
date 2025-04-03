@@ -25,9 +25,9 @@ This ERC20 token implementation includes the following features:
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.starkup.sh | sh
+git clone https://github.com/Contract-examples/cairo-example
 ```
 
 ### Build
